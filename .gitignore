@@ -1,0 +1,5 @@
+/node_modules
+/npm-debug.log
+/.next
+/__test__/__snapshots__
+.DS_Store
